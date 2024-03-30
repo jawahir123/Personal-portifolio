@@ -1,0 +1,51 @@
+{
+  "skills":[
+    {
+      "id":"1",
+      "src":"./images/htm.png",
+      "title":"html",
+      "discription":"frontend languages used to built webpages"
+
+    },{
+      "id":"2",
+      "src":"./images/css.png",
+      "title":"css",
+      "discription":"frontend language used for styling webpages"
+
+    },{
+      "id":"3",
+      "src":"./images/download.png",
+      "title":"javascript",
+      "discription":"frontend languuages used to interact webpages"
+
+  },{
+    "id":"4",
+      "src":"./images/javas.jpeg",
+      "title":"java",
+      "discription":"backend languges this one my favourite languages in programing "
+
+  }
+  ],
+  "portifolio":[
+    {
+      "id":"1",
+      "src":"./images/rsystem.jpeg",
+      "title":"airline reservation system",
+      "discription":"it is disktop application used to manage tickets and built c# language and sql"
+
+    },{
+      "id":"2",
+      "src":"./images/car.jpeg",
+      "title":"car renting system",
+      "discription":"it is disktop application that used to manage renting cars and built c# and sql"
+
+    },
+    {
+      "id":"3",
+      "src":"./images/sample.png",
+      "title":"amazon website",
+      "discription":"it bults html css and javascript"
+
+    }
+  ]
+}
